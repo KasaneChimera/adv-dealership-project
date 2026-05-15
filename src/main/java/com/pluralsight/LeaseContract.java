@@ -1,8 +1,6 @@
 package com.pluralsight;
 
-import pluralsight.Vehicle;
-
-public class LeaseContract extends com.pluralsight.Contract {
+public class LeaseContract extends Contract {
 
     public LeaseContract(String date,
                          String customerName,

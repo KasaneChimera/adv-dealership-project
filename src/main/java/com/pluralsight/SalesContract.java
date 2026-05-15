@@ -1,7 +1,6 @@
 package com.pluralsight;
-import pluralsight.Vehicle;
 
-public class SalesContract extends com.pluralsight.Contract {
+public class SalesContract extends Contract {
 
     private boolean finance;
 

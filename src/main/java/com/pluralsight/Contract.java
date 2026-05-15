@@ -1,5 +1,4 @@
 package com.pluralsight;
-import pluralsight.Vehicle;
 
 public abstract class Contract {
 
